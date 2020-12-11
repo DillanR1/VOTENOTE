@@ -1,1 +1,1 @@
-# propositions https://votenotehackathon.herokuapp.com/
+#VoteNote

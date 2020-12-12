@@ -1,5 +1,11 @@
 # VoteNote || General Assembly Hackathon Winning Project
 
+# Hackathon 
+
+The hackathon was a three day event for recent Software Engineering Immersive Grads and UX / UI Design Grads to collaborate on a project that would be presented before a panel of judges. 
+
+The prompt was to build something that could be useful to voters in the upcoming elections, whether it be local or primary. The app could not favor one party over another and needed to be readily accessible to voters of ALL backgrounds.
+
 # Usage 
 
 VoteNote is an application built for fast and immediate access to California state propositions and ballot measures. There is no log in, no mess, no fuss. Enter Your zip code and preferred language* to get started. The propositions are able to be individually clicked from the left-hand side selector**. Feel free to go in order or jump around. 
